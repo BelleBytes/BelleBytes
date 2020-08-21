@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning python
 - 💬 I speak Spanish, English and French
 - ⚡ Potterhead
-
+- ⚖️ Law Student
+- 📚 Bookworm
