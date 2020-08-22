@@ -1,8 +1,12 @@
 ### Hi there, I'm Belle 👋
 
 - 🔭 I’m constantly learning new things
-- 🌱 I’m currently learning python
-- 💬 I speak Spanish, English and French
-- ⚡ Potterhead
+- 🐍 Python begginer
 - ⚖️ Law Student
-- 📚 Bookworm
+- 💬 Hola. Hello. Salut
+- 🌙 Night owl
+- 🎬 Movie addicted
+- ⚡ Potterhead
+- 📚 Bookworm 
+
+🦋**Just Keep Playing**🦋
