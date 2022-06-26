@@ -2,7 +2,7 @@
 
 - 🔭 I’m constantly learning new things
 - 🐍 Python begginer
-- ⚖️ Law Student
+- ⚖️ Law Graduate
 - 💬 Hola. Hello. Salut
 - 🌙 Night owl
 - 🎬 Movie addicted
